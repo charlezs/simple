@@ -82,6 +82,7 @@ export default function Home() {
             spacing={6}
             direction={"row"}
             color={useColorModeValue("black", "white")}
+            px="6"
           >
             <Link
               href="https://twitter.com/intent/user?screen_name=learn_charles"
